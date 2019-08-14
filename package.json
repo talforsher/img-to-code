@@ -1,0 +1,27 @@
+{
+  "name": "img-to-code",
+  "version": "1.0.0",
+  "description": "converting text from img to usable code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talforsher/img-to-code.git"
+  },
+  "keywords": [
+    "code",
+    "forsher",
+    "students"
+  ],
+  "author": "TalForsher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talforsher/img-to-code/issues"
+  },
+  "homepage": "https://github.com/talforsher/img-to-code#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
